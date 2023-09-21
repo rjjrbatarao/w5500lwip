@@ -28,3 +28,4 @@ What it needs to run:
 That's it!
 
 !!! Note: the are a lot of work to do eg. handling link states, reconnections, transitions, Eth configuration things and so on... !!!
+Sources: https://github.com/espressif/arduino-esp32/issues/5482
